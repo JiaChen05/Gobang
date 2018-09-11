@@ -1,7 +1,3 @@
-對戰五子棋
-
-目前僅完成1/3功能，僅可單機雙人對戰。
-
-網路連線對戰及AI對戰尚未完成，悔棋設計亦尚未完成。
-
-最後更新日期：9-17-2001
+# Gobang
+* two people play in different computer through network
+* AI funcition not completed
